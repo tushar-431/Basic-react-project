@@ -1,0 +1,10 @@
+.inputele{
+    display: flex;
+}
+.inp{
+    width: 90%;
+    padding: 9px;
+}
+button{
+    width: 15%;
+}
